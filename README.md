@@ -2,6 +2,22 @@
 
 Source code of [**Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans**](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v2).
 
+
+```bib
+@article {He et al.benchmark,
+	author = {He, Xin and Wang, Shihao and Shi, Shaohuai and Chu, Xiaowen and Tang, Jiangping and Liu, Xin and Yan, Chenggang and Zhang, Jiyong and Ding, Guiguang},
+	title = {Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans},
+	elocation-id = {2020.06.08.20125963},
+	year = {2020},
+	doi = {10.1101/2020.06.08.20125963},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	URL = {https://www.medrxiv.org/content/early/2020/06/09/2020.06.08.20125963},
+	eprint = {https://www.medrxiv.org/content/early/2020/06/09/2020.06.08.20125963.full.pdf},
+	journal = {medRxiv}
+}
+
+```
+
 Table of Contents
 =================
 
@@ -71,26 +87,4 @@ Raw Data (CC-CCII) http://ncov-ai.big.ac.cn/download
 
 
 ![nas_vs_manual](./images/nas_vs_manual.png)
-
-
-# 3. Citation
-
-[Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v1)
-
-```bib
-@article {He et al.benchmark,
-	author = {He, Xin and Wang, Shihao and Shi, Shaohuai and Chu, Xiaowen and Tang, Jiangping and Liu, Xin and Yan, Chenggang and Zhang, Jiyong and Ding, Guiguang},
-	title = {Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans},
-	elocation-id = {2020.06.08.20125963},
-	year = {2020},
-	doi = {10.1101/2020.06.08.20125963},
-	publisher = {Cold Spring Harbor Laboratory Press},
-	URL = {https://www.medrxiv.org/content/early/2020/06/09/2020.06.08.20125963},
-	eprint = {https://www.medrxiv.org/content/early/2020/06/09/2020.06.08.20125963.full.pdf},
-	journal = {medRxiv}
-}
-
-```
-
-
 

@@ -1,6 +1,6 @@
 # HKBU_HPML_COVID-19
 
-Source code of [**this paper**](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v2).
+Source code of [**Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans**](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v2).
 
 Table of Contents
 =================
